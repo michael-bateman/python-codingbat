@@ -1,2 +1,3 @@
-# python-codingbat
-Python Coding Bat solutions
+# Python - Coding Bat Solutions
+
+__MORE INFORMATION COMING SOON__
