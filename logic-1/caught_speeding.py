@@ -1,18 +1,16 @@
 def caught_speeding(speed, is_birthday):
   speed0 = 60
-  speed1 = 61
-  speed2 = 81
+  speed1 = 80
   
-  if(is_birthday == "yes"):
+  if (is_birthday == True):
     speed0 = speed0 + 5
     speed1 = speed1 + 5
-    speed2 = speed2 + 5
-  
-  if(speed <= speed0):
+    
+  if (speed <= speed0):
     return 0
-  elif(speed1 <= speed < speed2):
+  elif (speed <= speed1):
     return 1
-  elif(speed2 <= speed):
+  else:
     return 2
 
 speed = input("What is your speed? ")
