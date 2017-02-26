@@ -2,7 +2,7 @@ def caught_speeding(speed, is_birthday):
   speed0 = 60
   speed1 = 80
   
-  if (is_birthday == True):
+  if (is_birthday == "yes"):
     speed0 = speed0 + 5
     speed1 = speed1 + 5
     
