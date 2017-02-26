@@ -11,4 +11,6 @@ I have both my solutions for the test, and they can be found in the `test` folde
 ## Improvements
 __Note:__ *All of these solutions have been tested using Coding Bat's online interface*
 
+Hopefuly soon, I will be expaning these solutions for all of the Python questions.
+
 If you find a better solution, please fork the repository and submit a pull request or let me know via email at [info@michaelbateman.ca](mailto:info@michaelbateman.ca).  Please note - I will not be changing anything in the `test` folder, only the other files, if a better solution can be found.
