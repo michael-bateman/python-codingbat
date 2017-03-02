@@ -22,7 +22,7 @@ __Note:__ *If you are using Coding Bat's online interface, please follow the ins
 
 Suppose, the following is shown below, only take the function, so everything from line 1-5 should be put in the online interface.
 
-```
+```python
 def monkey_trouble(a_smile, b_smile):
   if(a_smile == "yes" and b_smile == "yes" or a_smile == "no" and b_smile == "no"):
     return True
