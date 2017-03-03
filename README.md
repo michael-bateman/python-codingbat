@@ -37,7 +37,11 @@ print(monkey_trouble(a_smile,b_smile))
 
 ### Downloading the Repository
 
-Press the green, `Clone or download` button on the top of the repository.  Then click `Download ZIP`.
+Press the green, `Clone or download` button on the top of the repository.  Then click `Download ZIP`.  You then can run the `.py` files regularly.  For example, on a Mac, you can run the python files by typing:
+
+```bash
+$ python <file_name>.py
+```
 
 ## Improvements
 __Note:__ *All of these solutions have been tested using Coding Bat's online interface*
